@@ -14,7 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'therubyracer'
+  //  gem 'therubyracer'
     gem 'unicode_utils'
     gem 'webrick'
 end
